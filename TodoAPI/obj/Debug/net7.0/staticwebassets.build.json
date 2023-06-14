@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "sd7kzpVONmOedIxZEev6MLAkgldoBHDvnUMaZuMIr8U=",
+  "Source": "TodoAPI",
+  "BasePath": "_content/TodoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoAPI\\wwwroot",
+      "Source": "TodoAPI",
+      "ContentRoot": "D:\\Projects\\Personal\\TodoAPI\\TodoAPI\\wwwroot\\",
+      "BasePath": "_content/TodoAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\Personal\\TodoAPI\\TodoAPI\\wwwroot\\index.html",
+      "SourceId": "TodoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Personal\\TodoAPI\\TodoAPI\\wwwroot\\",
+      "BasePath": "_content/TodoAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Projects\\Personal\\TodoAPI\\TodoAPI\\wwwroot\\js\\site.js",
+      "SourceId": "TodoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Personal\\TodoAPI\\TodoAPI\\wwwroot\\",
+      "BasePath": "_content/TodoAPI",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
